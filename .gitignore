@@ -1,0 +1,6 @@
+﻿# Visual Studio / C# Ignores
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
